@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1794836686 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstadd_at.c
+	"list.h"
+
+1794823796 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstclear.c
+	"list.h"
+	<stdlib.h>
+
+1794836742 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstdel_at.c
+	"list.h"
+
+1794822673 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstdelone.c
+	"list.h"
+	<stdlib.h>
+
+1794821101 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstiter.c
+	"list.h"
+
+1794820508 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstsize.c
+	"list.h"
+
+1794836794 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"morceau.h"
+
+1794819641 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_listnew.c
+	"list.h"
+	<stdlib.h>
+
+1794816453 c:\users\hp\documents\im\playlist\playlist gestionnaire\list.h
+	<stdlib.h>
+
+1794816625 c:\users\hp\documents\im\playlist\playlist gestionnaire\morceau.h
+
+1794986067 source:c:\users\hp\documents\im\playlist\playlist gestionnaire\ft_lstnew.c
+	"list.h"
+	<stdlib.h>
+
